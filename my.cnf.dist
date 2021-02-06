@@ -1,0 +1,6 @@
+[client]
+database = graph_generate
+user = root
+password = ''
+host = localhost
+default-character-set = utf8
